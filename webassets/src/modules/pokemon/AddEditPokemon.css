@@ -1,0 +1,29 @@
+.pokemon {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.pokemon form {
+  padding-bottom: 15px;
+}
+
+.header {
+  margin-bottom: 10px;
+  float: right;
+}
+
+.form-body {
+  clear: both;
+}
+
+.pokemon .form-group .control-label {
+  font-size: 16px !important;
+}
+
+.modal-text {
+  color: black !important;
+}
+
+#contained-modal {
+  color: black;
+}
